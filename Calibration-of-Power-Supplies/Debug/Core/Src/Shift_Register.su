@@ -1,0 +1,2 @@
+Shift_Register.c:17:19:CAL_WriteShiftRegister_CurrentModule	48	static,ignoring_inline_asm
+Shift_Register.c:152:19:CAL_WriteShiftRegister	24	static,ignoring_inline_asm

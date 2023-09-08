@@ -1,0 +1,8 @@
+ADS8699.c:69:19:CAL_ADS8699_Configuration	24	static
+ADS8699.c:170:19:CAL_ADS8699_Read_Data	24	static
+ADS8699.c:197:19:CAL_ADC_Averaging_Buffer	0	static
+ADS8699.c:259:19:CAL_ADC_Real_Measured_Data	48	dynamic
+ADS8699.c:445:19:CAL_ADC_ThermoCoupleModule_Configuration	32	static
+ADS8699.c:546:19:CAL_ADC_ThermoCoupleModule_Read_Data	24	static
+ADS8699.c:568:19:Thermo_Couple_Channel_Select_Data	0	static
+ADS8699.c:616:19:Thermo_Couple_Channel_Select_Data1	0	static
